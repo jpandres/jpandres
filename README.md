@@ -5,7 +5,7 @@ I am a Software Architect and Developer. I have over 16 years of experience work
 At the moment I am working for **[Santander PagoNxt](https://www.pagonxt.com/)** in the **Global Payments Hub** project as a Principal Engineer.
 In the past I worked as consultant for [AND Digital](https://and.digital/), [VASSIT](http://www.vassit.co.uk/) and [IBM UY](https://www.ibm.com/uy-es)
 
-When not working I enjoy practicing Taekwon-Do ITF, boxing and catching up with friends over BBQ. 
+When not working I enjoy practicing Taekwon-Do ITF, boxing and playing the guitar. 
 
 Currently living in London, UK.
 
